@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manisharanthota
-- 👀 I’m interested in Data Engineering and Backend stuff
+- 👀 I’m interested in Data Engineering and Analytics
 - 🌱 I’m currently learning python along with DSA
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me - tmanisharan1998@gmail.com
