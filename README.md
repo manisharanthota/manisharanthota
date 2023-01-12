@@ -19,7 +19,7 @@ I am Manisharan, a enthusiast in Data Engineering⚙️ and Analytics📈.
 -  Exploring more about Cloud Technologies
 -  Learning about Big Data
 
-## 📱Connect with me 📱
+## 📱Connect with me 
 - [Linkedin](https://www.linkedin.com/in/manisharan-thota/)
 
 
