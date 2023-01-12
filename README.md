@@ -2,10 +2,26 @@
 
 I am Manisharan, a enthusiast in Data Engineering⚙️ and Analytics📈.
 
-## ✨ About Me in 10 Secs ✨
+## ✨ About Me in 30 Secs ✨
 - 👨‍💻 Started my career as an Analyst in customer Serice Teams at Amazon
-- 🌸 Came to know how interesting Data Analytics field and fell in love with it
+- 🌸 Explored more about Analytics and Engineering, fell in love with Data Engineering
 - 📚 Taught myself Python,SQL,AWS and PowerBI
+
+## 💡Tools and Technologies 💡
+- PowerBI
+- SQL(MS-SQL Server,PostgreSQL)
+- AWS (EC2,Lambda,RDS)
+- Python
+- Excel
+
+## 👉 Currently 👈
+-  Learning Data Wrangling and Data Cleaning skills using Python
+-  Exploring more about Cloud Technologies
+-  Learning about Big Data
+
+## 📱Connect with me 📱
+- [Linkedin](www.linkedin.com/in/manisharan-thota)
+
 
 
 <!---
