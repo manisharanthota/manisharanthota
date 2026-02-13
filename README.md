@@ -3,8 +3,7 @@
 I am Manisharan, a enthusiast in Data Engineering⚙️ and Backend stuff.
 
 ## ✨ About Me in 30 Secs ✨
-- 👨‍💻 Started my career as an Analyst in customer Serice Teams at Amazon
-- 🌸 Explored more about Analytics and Engineering, fell in love with Data Engineering
+- 🌸 Explored about Analytics and Engineering, fell in love with Data Engineering
 - 📚 Taught myself Python,SQL,Git and Django
 
 ## 💡Tools and Technologies 💡
